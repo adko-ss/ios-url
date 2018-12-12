@@ -21,11 +21,11 @@
                 <key>bundle-identifier</key>
                 <string>com.ceshi</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>8.9.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ceshibundleid</string>
+                <string>ceshiversion</string>
             </dict>
         </dict>
     </array>
