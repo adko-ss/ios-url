@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd
-
-">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>items</key>
@@ -13,19 +11,31 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://adko-ss.github.io/ios-url-ss/adko_sw_ios.ipa</string>
+                    <string>https://www.wangfanwifi.com/wangfanv20/WangFan.ipa</string>//ipa文件存放位置
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://www.wangfanwifi.com/wangfanv20/image57.png</string>//安装时桌面显示的 logo 图标
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://www.wangfanwifi.com/wangfanv20/image512.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.liguangming.Shadowrocket</string>
+                <string>com.ihangmei.wangfanconception</string>
                 <key>bundle-version</key>
-                <string>2.1.23</string>
+                <string>1.8.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Shadowrocket</string>
+                <string>WangFan</string>
             </dict>
         </dict>
     </array>
