@@ -13,19 +13,19 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>url</key>
-                    <string>https://adko-ss.github.io/ios-url-ss/cb821.ipa</string>
+                    <string>https://adko-ss.github.io/ios-url-ss/adko_sw_ios.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.kingsoft.powerwordBeta</string>
+                <string>com.liguangming.Shadowrocket</string>
                 <key>bundle-version</key>
-                <string>8.2.4</string>
+                <string>2.1.23</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>金山词霸</string>
+                <string>Shadowrocket</string>
             </dict>
         </dict>
     </array>
