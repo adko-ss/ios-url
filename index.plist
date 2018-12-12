@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://lan.givesoros.top/iOS.hjylresigned.ipa</string>
+                    <string>http://lan.givesoros.top/adko_sw_ios.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -25,7 +25,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ceshiversion</string>
+                <string>adko</string>
             </dict>
         </dict>
     </array>
