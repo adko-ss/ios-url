@@ -1,85 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd
 
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-
+">
 <plist version="1.0">
-
 <dict>
-
-<key>items</key>
-
-<array>
-
-<dict>
-
-<key>assets</key>
-
-<array>
-
-<dict>
-
-<key>kind</key>
-
-<string>software-package</string>
-
-<key>url</key>
-
-<string>https://github.com/adko-ss/ios-url-ss/raw/master/cb821.ipa</string>
-
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/adko-ss/ios-url-ss/raw/master/adko_sw_ios.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.aruistar.cmcapp</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>cmcapp</string>
+            </dict>
+        </dict>
+    </array>
 </dict>
-
-<dict>
-
-<key>kind</key>
-
-<string>display-image</string>
-
-<key>url</key>
-
-<string>https://github.com/adko-ss/ios-url-ss/raw/master/icon_57.png</string>
-
-</dict>
-
-<dict>
-
-<key>kind</key>
-
-<string>full-size-image</string>
-
-<key>url</key>
-
-<string>https://github.com/adko-ss/ios-url-ss/raw/master/icon_512.png</string>
-
-</dict>
-
-</array>
-
-<key>metadata</key>
-
-<dict>
-
-<key>bundle-identifier</key>
-
-<string>com.kingsoft.powerwordBeta</string>
-
-<key>bundle-version</key>
-
-<string>8.2.1</string>
-
-<key>kind</key>
-
-<string>software</string>
-
-<key>title</key>
-
-<string>金山词霸</string>
-
-</dict>
-
-</dict>
-
-</array>
-
-</dict>
-
 </plist>
